@@ -1,15 +1,15 @@
 [
   {
     "full_name": "jbangdev/jbang",
-    "stargazers_count": 802,
-    "open_issues_count": 141,
-    "forks_count": 89
+    "stargazers_count": 806,
+    "open_issues_count": 144,
+    "forks_count": 90
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 95551,
+    "stargazers_count": 95647,
     "open_issues_count": 14,
-    "forks_count": 13006
+    "forks_count": 13029
   },
   {
     "full_name": "caderek/aoc-starter-ts",
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 56057,
-    "open_issues_count": 23,
-    "forks_count": 8683
+    "stargazers_count": 56160,
+    "open_issues_count": 24,
+    "forks_count": 8692
   },
   {
     "full_name": "RyanFitzgerald/devfolio",
     "stargazers_count": 229,
     "open_issues_count": 1,
-    "forks_count": 128
+    "forks_count": 130
   },
   {
     "full_name": "AnomalyInnovations/serverless-stack-com",
-    "stargazers_count": 3601,
-    "open_issues_count": 112,
-    "forks_count": 389
+    "stargazers_count": 3604,
+    "open_issues_count": 113,
+    "forks_count": 392
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 144513,
+    "stargazers_count": 144661,
     "open_issues_count": 123,
-    "forks_count": 28667
+    "forks_count": 28705
   },
   {
     "full_name": "cgeo/WhereYouGo",
@@ -55,19 +55,19 @@
   },
   {
     "full_name": "Hack-with-Github/Awesome-Hacking",
-    "stargazers_count": 45923,
+    "stargazers_count": 45952,
     "open_issues_count": 19,
-    "forks_count": 7328
+    "forks_count": 7335
   },
   {
     "full_name": "JabRef/jabref",
-    "stargazers_count": 2294,
-    "open_issues_count": 236,
-    "forks_count": 1491
+    "stargazers_count": 2299,
+    "open_issues_count": 237,
+    "forks_count": 1494
   },
   {
     "full_name": "mvillaloboz/open-source-cs-degree",
-    "stargazers_count": 2905,
+    "stargazers_count": 2908,
     "open_issues_count": 3,
     "forks_count": 379
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49508,
+    "stargazers_count": 49543,
     "open_issues_count": 14,
-    "forks_count": 4226
+    "forks_count": 4229
   },
   {
     "full_name": "biylda/WhereYouGo",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 45150,
+    "stargazers_count": 45165,
     "open_issues_count": 29,
-    "forks_count": 4493
+    "forks_count": 4496
   },
   {
     "full_name": "guru-ricoh/guru",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 53957,
+    "stargazers_count": 53986,
     "open_issues_count": 96,
-    "forks_count": 11461
+    "forks_count": 11460
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 58847,
+    "stargazers_count": 58987,
     "open_issues_count": 5,
-    "forks_count": 8161
+    "forks_count": 8183
   },
   {
     "full_name": "groovy/groovy-website",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "grails/grails-core",
-    "stargazers_count": 2611,
-    "open_issues_count": 218,
+    "stargazers_count": 2613,
+    "open_issues_count": 219,
     "forks_count": 954
   },
   {
     "full_name": "apache/groovy",
-    "stargazers_count": 4274,
-    "open_issues_count": 23,
-    "forks_count": 1619
+    "stargazers_count": 4276,
+    "open_issues_count": 22,
+    "forks_count": 1620
   },
   {
     "full_name": "Pragmatists/JUnitParams",
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "junit-team/junit5",
-    "stargazers_count": 4790,
-    "open_issues_count": 129,
-    "forks_count": 1076
+    "stargazers_count": 4799,
+    "open_issues_count": 130,
+    "forks_count": 1079
   },
   {
     "full_name": "junit-team/junit4",
-    "stargazers_count": 8192,
-    "open_issues_count": 126,
-    "forks_count": 3110
+    "stargazers_count": 8195,
+    "open_issues_count": 127,
+    "forks_count": 3112
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 331294,
-    "open_issues_count": 154,
-    "forks_count": 26651
+    "stargazers_count": 332337,
+    "open_issues_count": 144,
+    "forks_count": 26744
   },
   {
     "full_name": "andrzejchm/RESTMock",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "akullpp/awesome-java",
-    "stargazers_count": 29942,
+    "stargazers_count": 29964,
     "open_issues_count": 3,
-    "forks_count": 6446
+    "forks_count": 6447
   },
   {
     "full_name": "cgeo/cgeo",
-    "stargazers_count": 1139,
-    "open_issues_count": 592,
-    "forks_count": 531
+    "stargazers_count": 1141,
+    "open_issues_count": 598,
+    "forks_count": 532
   },
   {
     "full_name": "androidannotations/androidannotations",
-    "stargazers_count": 11163,
+    "stargazers_count": 11169,
     "open_issues_count": 50,
     "forks_count": 2437
   }
